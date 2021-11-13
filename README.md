@@ -32,7 +32,7 @@ Live coding : en faisant ajouter un fichier sur mon dépôt distant.
 	Être à l’aise avec le syntax du langage c.</br>
 	les opérateurs arithmetic <code>+</code>,<code>-</code> ,<code>*</code> ,<code> /</code></br>
 	les opérateurs logiques <code>&&</code> , <code>||</code> ,<code>==</code>  et <code>!=</code></br>
-	les conditions <code>if...else</code>, et<code>switch</code>
+	les conditions <code>if...else</code>, et<code>switch</code><\br>
 	Les boucles <code>for</code>,<code>while</code>,<code>do..while</code>.</br>
   </li>
   <li>
