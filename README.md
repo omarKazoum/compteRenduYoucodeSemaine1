@@ -1,4 +1,4 @@
-<h1>Compte Rendu des activités d’apprentissage pour la première semaine au sein de Youcode:<span style="color:red">(Unfinished)</span></h1>
+<h1>Compte Rendu des activités d’apprentissage pour la première semaine au sein de Youcode:</h1>
 <ul>
 <li>
     <h3>Git:<small>(Un système de gestion des version distribué )</small></h3>    
